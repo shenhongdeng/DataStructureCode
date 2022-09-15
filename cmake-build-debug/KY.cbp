@@ -110,9 +110,6 @@
 		<Unit filename="/Users/shenhongdeng/CLionProjects/KY/07Search/7.3.4.9FindMaxMin.cpp">
 			<Option target="KY"/>
 		</Unit>
-		<Unit filename="/Users/shenhongdeng/CLionProjects/KY/07Search/8.3.4.03.MoveOddBeforeEven.cpp">
-			<Option target="KY"/>
-		</Unit>
 		<Unit filename="/Users/shenhongdeng/CLionProjects/KY/07Search/BinarySearch.cpp">
 			<Option target="KY"/>
 		</Unit>
@@ -138,6 +135,9 @@
 			<Option target="KY"/>
 		</Unit>
 		<Unit filename="/Users/shenhongdeng/CLionProjects/KY/08Sort/8.3.3.02BinaryPop.cpp">
+			<Option target="KY"/>
+		</Unit>
+		<Unit filename="/Users/shenhongdeng/CLionProjects/KY/08Sort/8.3.4.03.MoveOddBeforeEven.cpp">
 			<Option target="KY"/>
 		</Unit>
 		<Unit filename="/Users/shenhongdeng/CLionProjects/KY/08Sort/QuickSort.cpp">

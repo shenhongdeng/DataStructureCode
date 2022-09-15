@@ -393,33 +393,6 @@ KY/fast:
 	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/07Search/7.3.4.9FindMaxMin.cpp.s
 .PHONY : 07Search/7.3.4.9FindMaxMin.cpp.s
 
-07Search/8.3.4.03.MoveOddBeforeEven.o: 07Search/8.3.4.03.MoveOddBeforeEven.cpp.o
-
-.PHONY : 07Search/8.3.4.03.MoveOddBeforeEven.o
-
-# target to build an object file
-07Search/8.3.4.03.MoveOddBeforeEven.cpp.o:
-	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/07Search/8.3.4.03.MoveOddBeforeEven.cpp.o
-.PHONY : 07Search/8.3.4.03.MoveOddBeforeEven.cpp.o
-
-07Search/8.3.4.03.MoveOddBeforeEven.i: 07Search/8.3.4.03.MoveOddBeforeEven.cpp.i
-
-.PHONY : 07Search/8.3.4.03.MoveOddBeforeEven.i
-
-# target to preprocess a source file
-07Search/8.3.4.03.MoveOddBeforeEven.cpp.i:
-	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/07Search/8.3.4.03.MoveOddBeforeEven.cpp.i
-.PHONY : 07Search/8.3.4.03.MoveOddBeforeEven.cpp.i
-
-07Search/8.3.4.03.MoveOddBeforeEven.s: 07Search/8.3.4.03.MoveOddBeforeEven.cpp.s
-
-.PHONY : 07Search/8.3.4.03.MoveOddBeforeEven.s
-
-# target to generate assembly for a file
-07Search/8.3.4.03.MoveOddBeforeEven.cpp.s:
-	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/07Search/8.3.4.03.MoveOddBeforeEven.cpp.s
-.PHONY : 07Search/8.3.4.03.MoveOddBeforeEven.cpp.s
-
 07Search/BinarySearch.o: 07Search/BinarySearch.cpp.o
 
 .PHONY : 07Search/BinarySearch.o
@@ -662,6 +635,33 @@ KY/fast:
 08Sort/8.3.3.02BinaryPop.cpp.s:
 	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/08Sort/8.3.3.02BinaryPop.cpp.s
 .PHONY : 08Sort/8.3.3.02BinaryPop.cpp.s
+
+08Sort/8.3.4.03.MoveOddBeforeEven.o: 08Sort/8.3.4.03.MoveOddBeforeEven.cpp.o
+
+.PHONY : 08Sort/8.3.4.03.MoveOddBeforeEven.o
+
+# target to build an object file
+08Sort/8.3.4.03.MoveOddBeforeEven.cpp.o:
+	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/08Sort/8.3.4.03.MoveOddBeforeEven.cpp.o
+.PHONY : 08Sort/8.3.4.03.MoveOddBeforeEven.cpp.o
+
+08Sort/8.3.4.03.MoveOddBeforeEven.i: 08Sort/8.3.4.03.MoveOddBeforeEven.cpp.i
+
+.PHONY : 08Sort/8.3.4.03.MoveOddBeforeEven.i
+
+# target to preprocess a source file
+08Sort/8.3.4.03.MoveOddBeforeEven.cpp.i:
+	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/08Sort/8.3.4.03.MoveOddBeforeEven.cpp.i
+.PHONY : 08Sort/8.3.4.03.MoveOddBeforeEven.cpp.i
+
+08Sort/8.3.4.03.MoveOddBeforeEven.s: 08Sort/8.3.4.03.MoveOddBeforeEven.cpp.s
+
+.PHONY : 08Sort/8.3.4.03.MoveOddBeforeEven.s
+
+# target to generate assembly for a file
+08Sort/8.3.4.03.MoveOddBeforeEven.cpp.s:
+	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/08Sort/8.3.4.03.MoveOddBeforeEven.cpp.s
+.PHONY : 08Sort/8.3.4.03.MoveOddBeforeEven.cpp.s
 
 08Sort/QuickSort.o: 08Sort/QuickSort.cpp.o
 
@@ -945,9 +945,6 @@ help:
 	@echo "... 07Search/7.3.4.9FindMaxMin.o"
 	@echo "... 07Search/7.3.4.9FindMaxMin.i"
 	@echo "... 07Search/7.3.4.9FindMaxMin.s"
-	@echo "... 07Search/8.3.4.03.MoveOddBeforeEven.o"
-	@echo "... 07Search/8.3.4.03.MoveOddBeforeEven.i"
-	@echo "... 07Search/8.3.4.03.MoveOddBeforeEven.s"
 	@echo "... 07Search/BinarySearch.o"
 	@echo "... 07Search/BinarySearch.i"
 	@echo "... 07Search/BinarySearch.s"
@@ -975,6 +972,9 @@ help:
 	@echo "... 08Sort/8.3.3.02BinaryPop.o"
 	@echo "... 08Sort/8.3.3.02BinaryPop.i"
 	@echo "... 08Sort/8.3.3.02BinaryPop.s"
+	@echo "... 08Sort/8.3.4.03.MoveOddBeforeEven.o"
+	@echo "... 08Sort/8.3.4.03.MoveOddBeforeEven.i"
+	@echo "... 08Sort/8.3.4.03.MoveOddBeforeEven.s"
 	@echo "... 08Sort/QuickSort.o"
 	@echo "... 08Sort/QuickSort.i"
 	@echo "... 08Sort/QuickSort.s"

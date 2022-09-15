@@ -1,3 +1,4 @@
+/*
 //
 // Created by 沈洪灯 on 2022/9/15.
 //
@@ -13,7 +14,9 @@ void swap(int &a, int &b){
 }
 
 void BinaryPop(int arr[], int low, int high){
-    /*这个里边能自动解决low和high的值的问题*/
+    */
+/*这个里边能自动解决low和high的值的问题*//*
+
     while (low < high){
         for (int i = low; i < high; i++)
             if (arr[i] > arr[i + 1]) swap(arr[i], arr[i + 1]);
@@ -37,3 +40,4 @@ void BinaryPop(int arr[], int low, int high){
 //        cout << arr[i] << "\t";
 //    cout << endl;
 //}
+*/
