@@ -434,6 +434,32 @@ CMakeFiles/KY.dir/08Sort/8.3.4.03.MoveOddBeforeEven.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/KY.dir/08Sort/8.3.4.03.MoveOddBeforeEven.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shenhongdeng/CLionProjects/KY/08Sort/8.3.4.03.MoveOddBeforeEven.cpp -o CMakeFiles/KY.dir/08Sort/8.3.4.03.MoveOddBeforeEven.cpp.s
 
+CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.o: CMakeFiles/KY.dir/flags.make
+CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.o: ../08Sort/8.3.4.05.FindKSmall.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shenhongdeng/CLionProjects/KY/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.o -c /Users/shenhongdeng/CLionProjects/KY/08Sort/8.3.4.05.FindKSmall.cpp
+
+CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shenhongdeng/CLionProjects/KY/08Sort/8.3.4.05.FindKSmall.cpp > CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.i
+
+CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shenhongdeng/CLionProjects/KY/08Sort/8.3.4.05.FindKSmall.cpp -o CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.s
+
+CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.o: CMakeFiles/KY.dir/flags.make
+CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.o: ../08Sort/8.3.3.06.SwapColor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shenhongdeng/CLionProjects/KY/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.o -c /Users/shenhongdeng/CLionProjects/KY/08Sort/8.3.3.06.SwapColor.cpp
+
+CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shenhongdeng/CLionProjects/KY/08Sort/8.3.3.06.SwapColor.cpp > CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.i
+
+CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shenhongdeng/CLionProjects/KY/08Sort/8.3.3.06.SwapColor.cpp -o CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.s
+
 # Object files for target KY
 KY_OBJECTS = \
 "CMakeFiles/KY.dir/main.cpp.o" \
@@ -464,7 +490,9 @@ KY_OBJECTS = \
 "CMakeFiles/KY.dir/08Sort/05MergeSort.cpp.o" \
 "CMakeFiles/KY.dir/08Sort/05MergeSortTest.cpp.o" \
 "CMakeFiles/KY.dir/08Sort/8.3.3.02BinaryPop.cpp.o" \
-"CMakeFiles/KY.dir/08Sort/8.3.4.03.MoveOddBeforeEven.cpp.o"
+"CMakeFiles/KY.dir/08Sort/8.3.4.03.MoveOddBeforeEven.cpp.o" \
+"CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.o" \
+"CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.o"
 
 # External object files for target KY
 KY_EXTERNAL_OBJECTS =
@@ -498,9 +526,11 @@ KY: CMakeFiles/KY.dir/08Sort/05MergeSort.cpp.o
 KY: CMakeFiles/KY.dir/08Sort/05MergeSortTest.cpp.o
 KY: CMakeFiles/KY.dir/08Sort/8.3.3.02BinaryPop.cpp.o
 KY: CMakeFiles/KY.dir/08Sort/8.3.4.03.MoveOddBeforeEven.cpp.o
+KY: CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.o
+KY: CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.o
 KY: CMakeFiles/KY.dir/build.make
 KY: CMakeFiles/KY.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/shenhongdeng/CLionProjects/KY/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Linking CXX executable KY"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/shenhongdeng/CLionProjects/KY/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Linking CXX executable KY"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/KY.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

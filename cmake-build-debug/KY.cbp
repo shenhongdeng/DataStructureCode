@@ -137,7 +137,13 @@
 		<Unit filename="/Users/shenhongdeng/CLionProjects/KY/08Sort/8.3.3.02BinaryPop.cpp">
 			<Option target="KY"/>
 		</Unit>
+		<Unit filename="/Users/shenhongdeng/CLionProjects/KY/08Sort/8.3.3.06.SwapColor.cpp">
+			<Option target="KY"/>
+		</Unit>
 		<Unit filename="/Users/shenhongdeng/CLionProjects/KY/08Sort/8.3.4.03.MoveOddBeforeEven.cpp">
+			<Option target="KY"/>
+		</Unit>
+		<Unit filename="/Users/shenhongdeng/CLionProjects/KY/08Sort/8.3.4.05.FindKSmall.cpp">
 			<Option target="KY"/>
 		</Unit>
 		<Unit filename="/Users/shenhongdeng/CLionProjects/KY/08Sort/QuickSort.cpp">

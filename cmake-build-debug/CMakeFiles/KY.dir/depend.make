@@ -47,7 +47,11 @@ CMakeFiles/KY.dir/08Sort/05MergeSortTest.cpp.o: ../08Sort/05MergeSortTest.cpp
 
 CMakeFiles/KY.dir/08Sort/8.3.3.02BinaryPop.cpp.o: ../08Sort/8.3.3.02BinaryPop.cpp
 
+CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.o: ../08Sort/8.3.3.06.SwapColor.cpp
+
 CMakeFiles/KY.dir/08Sort/8.3.4.03.MoveOddBeforeEven.cpp.o: ../08Sort/8.3.4.03.MoveOddBeforeEven.cpp
+
+CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.o: ../08Sort/8.3.4.05.FindKSmall.cpp
 
 CMakeFiles/KY.dir/08Sort/QuickSort.cpp.o: ../08Sort/QuickSort.cpp
 

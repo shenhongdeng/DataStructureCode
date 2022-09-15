@@ -636,6 +636,33 @@ KY/fast:
 	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/08Sort/8.3.3.02BinaryPop.cpp.s
 .PHONY : 08Sort/8.3.3.02BinaryPop.cpp.s
 
+08Sort/8.3.3.06.SwapColor.o: 08Sort/8.3.3.06.SwapColor.cpp.o
+
+.PHONY : 08Sort/8.3.3.06.SwapColor.o
+
+# target to build an object file
+08Sort/8.3.3.06.SwapColor.cpp.o:
+	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.o
+.PHONY : 08Sort/8.3.3.06.SwapColor.cpp.o
+
+08Sort/8.3.3.06.SwapColor.i: 08Sort/8.3.3.06.SwapColor.cpp.i
+
+.PHONY : 08Sort/8.3.3.06.SwapColor.i
+
+# target to preprocess a source file
+08Sort/8.3.3.06.SwapColor.cpp.i:
+	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.i
+.PHONY : 08Sort/8.3.3.06.SwapColor.cpp.i
+
+08Sort/8.3.3.06.SwapColor.s: 08Sort/8.3.3.06.SwapColor.cpp.s
+
+.PHONY : 08Sort/8.3.3.06.SwapColor.s
+
+# target to generate assembly for a file
+08Sort/8.3.3.06.SwapColor.cpp.s:
+	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/08Sort/8.3.3.06.SwapColor.cpp.s
+.PHONY : 08Sort/8.3.3.06.SwapColor.cpp.s
+
 08Sort/8.3.4.03.MoveOddBeforeEven.o: 08Sort/8.3.4.03.MoveOddBeforeEven.cpp.o
 
 .PHONY : 08Sort/8.3.4.03.MoveOddBeforeEven.o
@@ -662,6 +689,33 @@ KY/fast:
 08Sort/8.3.4.03.MoveOddBeforeEven.cpp.s:
 	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/08Sort/8.3.4.03.MoveOddBeforeEven.cpp.s
 .PHONY : 08Sort/8.3.4.03.MoveOddBeforeEven.cpp.s
+
+08Sort/8.3.4.05.FindKSmall.o: 08Sort/8.3.4.05.FindKSmall.cpp.o
+
+.PHONY : 08Sort/8.3.4.05.FindKSmall.o
+
+# target to build an object file
+08Sort/8.3.4.05.FindKSmall.cpp.o:
+	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.o
+.PHONY : 08Sort/8.3.4.05.FindKSmall.cpp.o
+
+08Sort/8.3.4.05.FindKSmall.i: 08Sort/8.3.4.05.FindKSmall.cpp.i
+
+.PHONY : 08Sort/8.3.4.05.FindKSmall.i
+
+# target to preprocess a source file
+08Sort/8.3.4.05.FindKSmall.cpp.i:
+	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.i
+.PHONY : 08Sort/8.3.4.05.FindKSmall.cpp.i
+
+08Sort/8.3.4.05.FindKSmall.s: 08Sort/8.3.4.05.FindKSmall.cpp.s
+
+.PHONY : 08Sort/8.3.4.05.FindKSmall.s
+
+# target to generate assembly for a file
+08Sort/8.3.4.05.FindKSmall.cpp.s:
+	$(MAKE) -f CMakeFiles/KY.dir/build.make CMakeFiles/KY.dir/08Sort/8.3.4.05.FindKSmall.cpp.s
+.PHONY : 08Sort/8.3.4.05.FindKSmall.cpp.s
 
 08Sort/QuickSort.o: 08Sort/QuickSort.cpp.o
 
@@ -972,9 +1026,15 @@ help:
 	@echo "... 08Sort/8.3.3.02BinaryPop.o"
 	@echo "... 08Sort/8.3.3.02BinaryPop.i"
 	@echo "... 08Sort/8.3.3.02BinaryPop.s"
+	@echo "... 08Sort/8.3.3.06.SwapColor.o"
+	@echo "... 08Sort/8.3.3.06.SwapColor.i"
+	@echo "... 08Sort/8.3.3.06.SwapColor.s"
 	@echo "... 08Sort/8.3.4.03.MoveOddBeforeEven.o"
 	@echo "... 08Sort/8.3.4.03.MoveOddBeforeEven.i"
 	@echo "... 08Sort/8.3.4.03.MoveOddBeforeEven.s"
+	@echo "... 08Sort/8.3.4.05.FindKSmall.o"
+	@echo "... 08Sort/8.3.4.05.FindKSmall.i"
+	@echo "... 08Sort/8.3.4.05.FindKSmall.s"
 	@echo "... 08Sort/QuickSort.o"
 	@echo "... 08Sort/QuickSort.i"
 	@echo "... 08Sort/QuickSort.s"

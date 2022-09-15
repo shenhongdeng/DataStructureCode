@@ -12,12 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cb7b1b4-df82-4f57-8fc5-90c8c852dd30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08Sort/8.3.3.06.SwapColor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08Sort/8.3.4.05.FindKSmall.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07Search/8.3.4.03.MoveOddBeforeEven.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/08Sort/8.3.4.03.MoveOddBeforeEven.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08Sort/8.3.3.02BinaryPop.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/08Sort/8.3.3.02BinaryPop.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08Sort/8.3.4.03.MoveOddBeforeEven.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/08Sort/8.3.4.03.MoveOddBeforeEven.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/08Sort/8.3.3.02BinaryPop.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/08Sort/8.3.3.02BinaryPop.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/08Sort/8.3.4.03.MoveOddBeforeEven.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/08Sort/8.3.4.03.MoveOddBeforeEven.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/build.make" afterDir="false" />
@@ -25,6 +25,9 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/KY.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/KY" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/KY" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/KY.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/KY.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
@@ -92,7 +95,7 @@
       <workItem from="1663067577748" duration="216000" />
       <workItem from="1663137230128" duration="2061000" />
       <workItem from="1663143434104" duration="38000" />
-      <workItem from="1663232405102" duration="2006000" />
+      <workItem from="1663232405102" duration="4286000" />
     </task>
     <servers />
   </component>
@@ -100,22 +103,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="192" key="GridCell.Tab.0.bottom" timestamp="1663234844373">
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom" timestamp="1663239774975">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1663234844373" />
-    <state width="1398" height="192" key="GridCell.Tab.0.center" timestamp="1663234844372">
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1663239774975" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center" timestamp="1663239774975">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1663234844372" />
-    <state width="1398" height="192" key="GridCell.Tab.0.left" timestamp="1663234844371">
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1663239774975" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left" timestamp="1663239774974">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1663234844371" />
-    <state width="1398" height="192" key="GridCell.Tab.0.right" timestamp="1663234844372">
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1663239774974" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right" timestamp="1663239774975">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1663234844372" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1663239774975" />
     <state width="1398" height="257" key="GridCell.Tab.1.bottom" timestamp="1663067504540">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
