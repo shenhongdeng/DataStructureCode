@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(KY)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(KY main.cpp 02/17_check_cycle_list_smmery.cpp LINK_LIST_DOUBLE_CYCLE_WITH_HEAD/doubleWithHead.h LINK_LIST_DOUBLE_CYCLE_WITH_HEAD/function.cpp LINK_LIST_SIGNAL_CYCLE_WITH_HEAD/function.cpp LINK_LIST_SIGNAL_CYCLE_WITH_HEAD/signal_cycle_with_head.h 02/19_delete_min.cpp GRAPH/graph.h GRAPH/graphfunctions.cpp QUEUE/Queue.h QUEUE/queuefunction.cpp BaseTest.cpp 03/01.cpp 07Search/BinarySearch.cpp 07Search/BinarySearchTree.cpp TREE/Tree.h TREE/Tree.cpp 07Search/7.2.4.5BinarySearchTreverse.cpp 07Search/7.2.4.6SwapWhenFinded.cpp 07Search/7.3.4.5JudgeBinarySortTree.cpp 07Search/7.3.4.8JudgeBalance.cpp 07Search/7.3.4.9FindMaxMin.cpp 07Search/7.3.4.10PrintLessThanKey.cpp 07Search/7.3.4.11FindKthNumber.cpp TREE/BSTCountTree.cpp 08Sort/01InsertSort.cpp 08Sort/02SwapSort.cpp 08Sort/QuickSort.cpp 08Sort/04HeapSort.cpp 08Sort/04test.cpp 08Sort/05MergeSort.cpp 08Sort/05MergeSortTest.cpp 08Sort/8.3.3.02BinaryPop.cpp 07Search/8.3.4.03.MoveOddBeforeEven.cpp)
